@@ -1,7 +1,7 @@
 # kumologica-designer-releases
 Kumologica designer is now part of Kumologica SDK and available as npm module.
 
-#Installation
+# Installation
 
 To install latest version of the designer run:
 
